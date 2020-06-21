@@ -1,0 +1,5 @@
+/.vs
+/DeltaBridge.Api/obj
+/DeltaBridge.Api/bin
+/src/DeltaBridge.Tests.Unit/bin
+/src/DeltaBridge.Tests.Unit/obj

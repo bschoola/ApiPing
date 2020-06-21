@@ -1,0 +1,16 @@
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\ApiPing.deps.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\ApiPing.runtimeconfig.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\ApiPing.runtimeconfig.dev.json
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\ApiPing.dll
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.csprojAssemblyReference.cache
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.RazorAssemblyInfo.cache
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.RazorAssemblyInfo.cs
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.AssemblyInfoInputs.cache
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.AssemblyInfo.cs
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.RazorTargetAssemblyInfo.cache
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\bin\Debug\netcoreapp2.1\ApiPing.pdb
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.dll
+C:\Users\bruno.schoola-sc\Documents\Projetos\_Estudos\ApiPing\ApiPing\ApiPing\obj\Debug\netcoreapp2.1\ApiPing.pdb
